@@ -8,6 +8,11 @@
 
 O **Jogo do Número Secreto** é uma divertida aplicação onde você tenta adivinhar o número sorteado pelo sistema. O objetivo? Acertar o número secreto enquanto o jogo dá dicas sobre se o seu palpite está "maior" ou "menor". Este jogo foi desenvolvido usando **HTML**, **CSS** e **JavaScript**.
 
+## 🌐 Acesse o site ✨
+Clique no link abaixo para acessar a versão online do sorteador:
+
+[**Acesse o Jogo do Número Secreto**](https://oliveirarmulo.github.io/jogo-do-numero-secreto/) 🌟
+
 ## 🚀 Funcionalidades
 
 - Um número aleatório é sorteado pelo sistema.
